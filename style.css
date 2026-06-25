@@ -29,20 +29,8 @@ li {
     list-style: none;
 }
 
-h1 {
-    color: whitesmoke;
-    font-size: 3rem;
-    font-family: helvetica;
-    font-weight: bold;
-}
-
 li:hover {
     cursor: pointer;
-}
-
-.header {
-    margin-bottom: 10px;
-    text-shadow: 10px 10px 20px rgba(0, 0, 0, 0.7);
 }
 
 .links-container {
